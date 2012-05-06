@@ -1,0 +1,9 @@
+This is the place for my specific Qt mkspec.
+
+Currently these one are available:
+
+* Windows crossbuild from Linux (win32-x11-g++)
+* Windows crossbuild from Mac OS X (win32-osx-g++)
+* Mac OS X crossbuild from Linux (macx-x11-g++42)
+
+P@sNox,
